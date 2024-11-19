@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: employee-service
-          image: anurodhsingh/employee-service:version-1
+          image: docker.io/anurodhsingh/employee-service:version-1
           imagePullPolicy: IfNotPresent
           ports:
             - containerPort: 8050

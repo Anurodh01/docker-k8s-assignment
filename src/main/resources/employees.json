@@ -1,0 +1,122 @@
+[
+  {
+    "employeeName": "John Doe",
+    "salary": 50000,
+    "age": 30,
+    "designation": "Manager"
+  },
+  {
+    "employeeName": "Jane Smith",
+    "salary": 60000,
+    "age": 28,
+    "designation": "Senior Developer"
+  },
+  {
+    "employeeName": "Michael Johnson",
+    "salary": 55000,
+    "age": 35,
+    "designation": "HR"
+  },
+  {
+    "employeeName": "Emily Davis",
+    "salary": 45000,
+    "age": 26,
+    "designation": "Manager"
+  },
+  {
+    "employeeName": "William Brown",
+    "salary": 70000,
+    "age": 40,
+    "designation": "Director"
+  },
+  {
+    "employeeName": "Olivia Wilson",
+    "salary": 52000,
+    "age": 32,
+    "designation": "QA Engineer"
+  },
+  {
+    "employeeName": "James Taylor",
+    "salary": 48000,
+    "age": 27,
+    "designation": "Manager"
+  },
+  {
+    "employeeName": "Sophia Anderson",
+    "salary": 53000,
+    "age": 29,
+    "designation": "Web Developer"
+  },
+  {
+    "employeeName": "Benjamin Thomas",
+    "salary": 59000,
+    "age": 38,
+    "designation": "Project Manager"
+  },
+  {
+    "employeeName": "Isabella Jackson",
+    "salary": 51000,
+    "age": 31,
+    "designation": "Manager"
+  },
+  {
+    "employeeName": "Mason Lee",
+    "salary": 55000,
+    "age": 33,
+    "designation": "QA Engineer"
+  },
+  {
+    "employeeName": "Liam Martinez",
+    "salary": 60000,
+    "age": 36,
+    "designation": "Web Developer"
+  },
+  {
+    "employeeName": "Noah Hernandez",
+    "salary": 47000,
+    "age": 25,
+    "designation": "Manager"
+  },
+  {
+    "employeeName": "Ava Clark",
+    "salary": 54000,
+    "age": 34,
+    "designation": "Customer Service"
+  },
+  {
+    "employeeName": "Sophia Lewis",
+    "salary": 62000,
+    "age": 39,
+    "designation": "QA Engineer"
+  },
+  {
+    "employeeName": "Isabella Robinson",
+    "salary": 50000,
+    "age": 29,
+    "designation": "Recruiter"
+  },
+  {
+    "employeeName": "Mia Walker",
+    "salary": 53000,
+    "age": 31,
+    "designation": "Web Developer"
+  },
+  {
+    "employeeName": "Amelia Hall",
+    "salary": 58000,
+    "age": 37,
+    "designation": "Web Developer"
+  },
+  {
+    "employeeName": "Olivia Young",
+    "salary": 55000,
+    "age": 30,
+    "designation": "Graphic Designer"
+  },
+  {
+    "employeeName": "Emma King",
+    "salary": 60000,
+    "age": 35,
+    "designation": "Software Engineer"
+  }
+]
